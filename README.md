@@ -23,9 +23,9 @@ The objective is to turn a brand-new, bare bones, Linux server into the secure a
 * git
 
 ## Installation information:
-IP: 52.90.242.93
-Users: ubuntu grader
-URL: linuxdeploy.scscn.org
+* IP: 52.90.242.93
+* Users: ubuntu grader
+* URL: linuxdeploy.scscn.org
 
 
 ## Configurations:
