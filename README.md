@@ -22,7 +22,7 @@ The objective is to turn a brand-new, bare bones, Linux server into the secure a
 * pip
 * git
 
-## Installation information:
+## Installation Information:
 * IP: 52.90.242.93
 * Users: ubuntu grader
 * URL: linuxdeploy.scscn.org
@@ -35,3 +35,10 @@ The objective is to turn a brand-new, bare bones, Linux server into the secure a
 * add uwsgi and wsgi.ini and appliation systemctl service.
 * modified and link nginx cofigurations.
 * ssh port change from 22 to 2200
+
+## 3rd Party Resources:
+* SSH configuration [SSH how to](https://www.ssh.com/ssh/sshd_config/)
+* UFW firewall [UFW setup](https://www.digitalocean.com/community/tutorials/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server)
+* Setup flask uswgi nginx [Flask uswgi and nginx](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uwsgi-and-nginx-on-ubuntu-16-04)
+* Flask uwsgi secret_key not set [Flask secret_key solutions](https://stackoverflow.com/questions/26080872/secret-key-not-set-in-flask-session)
+
